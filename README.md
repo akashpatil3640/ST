@@ -52,3 +52,13 @@ i/p--> English
 o/p--> Telugu
 
 ![Screenshot from 2022-09-19 16-15-29](https://user-images.githubusercontent.com/66793837/191004314-d3f68304-735d-40b2-b187-9acfc046c1b5.png)
+
+
+If you want the statement with you then just click on Export file and boom.
+The file is successfully download in your local machine.
+
+![Screenshot from 2022-09-19 16-38-50](https://user-images.githubusercontent.com/66793837/191005074-9797e337-50dd-44bc-8d43-09b7a35a2053.png)
+
+The final 404 page is 😅️
+![Screenshot from 2022-09-19 16-42-34](https://user-images.githubusercontent.com/66793837/191005331-425bfcf6-60e4-4301-a6ae-721e6bba09f9.png)
+
