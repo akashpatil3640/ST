@@ -10,3 +10,6 @@ now go back to parent directory
 1) $cd stbackend
 2) $python3 manage.py runserver
 
+finally you can see the index page
+
+![Screenshot from 2022-09-19 16-08-50](https://user-images.githubusercontent.com/66793837/191001193-62122aef-3bcb-41f4-9af5-59d9831ecb22.png)
